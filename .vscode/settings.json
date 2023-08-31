@@ -1,0 +1,7 @@
+{
+    "python.linting.banditEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": ["--generate-members"]
+}

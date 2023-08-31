@@ -1,0 +1,1 @@
+ffmpeg  -i ../../danish_trim_2.mp4 -vsync 0 -f image2 frame%d.png
