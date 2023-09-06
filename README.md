@@ -28,7 +28,7 @@ https://github.com/Juild/padel-project-tfm/assets/74079422/3573649b-5b21-48d0-94
 <img width="690" alt="Screenshot 2023-09-06 at 10 46 00" src="https://github.com/Juild/padel-project-tfm/assets/74079422/ffbb9f42-8dd4-4013-97e3-b4825f302f41">
 
 
-### Ball positions and most played directions
+#### Ball positions and most played directions
 
 
 <img width="618" alt="Screenshot 2023-09-06 at 10 46 32" src="https://github.com/Juild/padel-project-tfm/assets/74079422/947230ad-dac7-4df1-8b4f-52ae4217aa98">
