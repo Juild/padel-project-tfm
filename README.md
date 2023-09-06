@@ -1,6 +1,8 @@
 # A Study of Ball and Player Detection System in Paddle Tennis with Deep Neural Networks
 
-This is the source repository for the Master Thesis of the Master in Modelling for Science and Engineering, supervised by [Dr. Sundus Zafar](https://www.linkedin.com/in/sunduszafar/). Image and video data is not uploaded here for storage limitations reasons.
+This is the source repository for the Master Thesis of the Master in Modelling for Science and Engineering, supervised by [Dr. Sundus Zafar](https://www.linkedin.com/in/sunduszafar/). Image and video data used for training is not uploaded here for storage limitations reasons.
+
+[Written report](https://github.com/Juild/padel-project-tfm/blob/main/TFM-4.pdf)
 
 ## Directory structure
 
